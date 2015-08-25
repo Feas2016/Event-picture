@@ -1,0 +1,313 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "asiangfx_ACCUSATION_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/ACCUSATION_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_ADVISOR_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/ADVISOR_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_ANGRY_MOB_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/ANGRY_MOB_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_ARTWORK_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/ARTWORK_eventPicture.dds"
+	}
+
+	spriteType = {
+		name = "asiangfx_BAD_WITH_MONARCH_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/BAD_WITH_MONARCH_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_BANKRUPTCY_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/BANKRUPTCY_eventPicture.dds"
+	}	
+
+	spriteType = {
+		name = "asiangfx_BATTLE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/BATTLE_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_BIG_BOOK_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/BIG_BOOK_eventPicture.dds"
+	}
+		
+	spriteType = {
+		name = "asiangfx_BORDER_TENSION_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/BORDER_TENSION_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_CITY_DEVELOPMENT_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/CITY_DEVELOPMENT_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_CITY_VIEW_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/CITY_VIEW_eventPicture.dds"
+	}
+
+	spriteType = {
+		name = "asiangfx_CIVIL_WAR_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/CIVIL_WAR_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_COLONIZATION_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/COLONIZATION_eventPicture.dds"
+	}
+
+	spriteType = {
+		name = "asiangfx_COMET_SIGHTED_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/COMET_SIGHTED_eventPicture.dds"
+	}	
+	
+	spriteType = {
+		name = "asiangfx_CONQUEST_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/CONQUEST_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_CORRUPTION_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/CORRUPTION_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_COUNTRY_COLLAPSE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/COUNTRY_COLLAPSE_eventPicture.dds"
+	}	
+	
+	spriteType = {
+		name = "asiangfx_COURT_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/COURT_eventPicture.dds"
+	}	
+
+	spriteType = {
+		name = "asiangfx_CULTURE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/CULTURE_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_DEATH_OF_HEIR_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/DEATH_OF_HEIR_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_DEBATE_REPUBLICAN_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/DEBATE_REPUBLICAN_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_ECONOMY_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/ECONOMY_eventPicture.dds"
+	}
+
+	spriteType = {
+		name = "asiangfx_ELECTION_REPUBLICAN_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/ELECTION_REPUBLICAN_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_DIPLOMACY_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/DIPLOMACY_eventPicture.dds"
+	}	
+	
+	spriteType = {
+		name = "asiangfx_EXPLORES_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/EXPLORES_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_FAMINE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/FAMINE_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_FARMING_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/FARMING_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_FEAST_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/FEAST_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_FORT_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/FORT_eventPicture.dds"
+	}
+
+	spriteType = {
+		name = "asiangfx_GOOD_WITH_MONARCH_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/GOOD_WITH_MONARCH_eventPicture.dds"
+	}
+
+	spriteType = {
+		name = "asiangfx_GREAT_BUILDING_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/GREAT_BUILDING_eventPicture.dds"
+	}
+
+	spriteType = {
+		name = "asiangfx_HARBOUR_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/HARBOUR_eventPicture.dds"
+	}
+
+	spriteType = {
+		name = "asiangfx_HORDE_ON_HORSEBACK_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/HORDE_ON_HORSEBACK_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_IMPORTANT_STATUE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/IMPORTANT_STATUE_eventPicture.dds"
+	}	
+	
+	spriteType = {
+		name = "asiangfx_INVENTION_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/INVENTION_eventPicture.dds"
+	}	
+	
+	spriteType = {
+		name = "asiangfx_KING_SICK_IN_BED_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/KING_SICK_IN_BED_eventPicture.dds"
+	}
+
+	spriteType = {
+		name = "asiangfx_LAND_MILITARY_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/LAND_MILITARY_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_LIBERUM_VETO_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/LIBERUM_VETO_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_MERCHANTS_TALKING_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/MERCHANTS_TALKING_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_MILITARY_CAMP_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/MILITARY_CAMP_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_NATIVES_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/NATIVES_eventPicture.dds"
+	}
+
+	spriteType = {
+		name = "asiangfx_NAVAL_MILITARY_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/NAVAL_MILITARY_eventPicture.dds"
+	}
+
+	spriteType = {
+		name = "asiangfx_NEW_HEIR_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/NEW_HEIR_eventPicture.dds"
+	}
+
+	spriteType = {
+		name = "asiangfx_OVEREXTENSION_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/OVEREXTENSION_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_PAINTER_ARTIST_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/ARTWORK_eventPicture.dds"
+	}	
+	
+	spriteType = {
+		name = "asiangfx_PLAGUE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/PLAGUE_eventPicture.dds"
+	}
+
+	spriteType = {
+		name = "asiangfx_PRAYING_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/PRAYING_eventPicture.dds"
+	}
+
+	spriteType = {
+		name = "asiangfx_REFORM_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/REFORM_eventPicture.dds"
+	}
+
+	spriteType = {
+		name = "asiangfx_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/RELIGION_eventPicture.dds"
+	}
+
+		spriteType = {
+		name = "asiangfx_RELIGIOUS_CONVERSION_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/RELIGIOUS_CONVERSION_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_RELIGIOUS_TURMOIL_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/RELIGIOUS_TURMOIL_eventPicture.dds"
+	}	
+
+	spriteType = {
+		name = "asiangfx_RELIGIOUS_WARS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/RELIGIOUS_WARS_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_REVOLUTION_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/REVOLUTION_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_SHIP_SAILING_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/SHIP_SAILING_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_SIEGE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/SIEGE_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_SPY_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/SPY_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_STREET_SPEECH_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/STREET_SPEECH_eventPicture.dds"
+	}	
+	
+	spriteType = {
+		name = "asiangfx_THEATRE_eventPictures"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/THEATRE_eventPictures.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_TRADEGOODS_eventPictures"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/TRADEGOODS_eventPictures.dds"
+	}
+	
+	spriteType = {
+		name = "asiangfx_UNIVERSITY_eventPictures"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/UNIVERSITY_eventPictures.dds"
+	}	
+	
+	spriteType = {
+		name = "asiangfx_WESTERNISATION_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/WESTERNISATION_eventPicture.dds"
+	}
+
+	spriteType = {
+		name = "asiangfx_WOUNDED_SOLDIERS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_ASIAN/WOUNDED_SOLDIERS_eventPicture.dds"
+	}
+	
+}

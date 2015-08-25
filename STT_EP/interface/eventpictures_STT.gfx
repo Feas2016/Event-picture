@@ -1,0 +1,53 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "AUSHUNG_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_STT/AUSHUNG_eventPicture.dds"
+	}
+
+	spriteType = {
+		name = "CORONA_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_STT/CORONA_eventPicture.dds"
+	}
+
+	spriteType = {
+		name = "KREMLIN_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_STT/KREMLIN_eventPicture.dds"
+	}
+	spriteType = {
+		name = "stt_ssofia_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_STT/stt_ssofia_eventPicture.dds"
+	}
+	spriteType = {
+		name = "stt_asofia_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_STT/stt_asofia_eventPicture.dds"
+	}
+	spriteType = {
+		name = "VEL_KNYAZ"
+		texturefile = "gfx/event_pictures/event_pictures_STT/VEL_KNYAZ.dds"
+	}
+	spriteType = {
+		name = "vasil_blazen_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_STT/VASILII_BLAZEN.dds"
+	}
+	spriteType = {
+		name = "COSSAK_ZAZ"
+		texturefile = "gfx/event_pictures/event_pictures_STT/COSSAK_ZAZ.dds"
+	}   
+	spriteType = {
+		name = "ermitaj_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_STT/ermitaj_eventPicture.dds"
+	}
+	spriteType = {
+		name = "PLU_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_STT/PLU_eventPicture.dds"
+	}
+	spriteType = {
+		name = "BRETSK_UNI_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_STT/BRETSK_UNI.dds"
+	}
+	spriteType = {
+		name = "SIB_EXPLORERS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_STT/SIB_EXPLORERS_eventPicture.dds"
+	}
+}

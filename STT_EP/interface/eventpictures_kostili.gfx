@@ -1,0 +1,17 @@
+spriteTypes = {	
+	spriteType = {
+		name = "BENKRUPTCY_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_GE/BANKRUPTCY_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "LIBERUM_VETO_ebentPicture"
+		texturefile = "gfx/event_pictures/event_pictures_GE/LIBERUM_VETO_eventPicture.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "ELECTION_REPUBLIC_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_GE/ELECTION_REPUBLICAN_eventPicture.dds"
+		allwaystransparent = yes
+	}
+}

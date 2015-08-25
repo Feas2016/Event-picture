@@ -1,0 +1,18 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "easterngfx_EXPLORES_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/EXPLORES_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "easterngfx_FORT_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/FORT_eventPicture.dds"
+	}
+
+	spriteType = {
+		name = "easterngfx_MERCHANTS_TALKING_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/MERCHANTS_TALKING_eventPicture.dds"
+	}
+		
+}
