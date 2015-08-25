@@ -1,5 +1,5 @@
 name="[STT]Event picture"
-archive="mod/STT_event_picture.zip"
+path="mod/STT_EP"
 tags=
 {
 	Events graphics 
