@@ -59,11 +59,15 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_STT/JAGELLON_REFUSES_eventPicture.dds"
 	}
 	spriteType = {
-		name = "KING OF POLAND_AND_LITVA_eventPicture"
+		name = "KING_OF_POLAND_AND_LITVA_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_STT/KING_OF_POLAND_AND_LITVA_eventPicture.dds"
 	}
 	spriteType = {
 		name = "POLAND_CROWN_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_STT/POLAND_CROWN_eventPicture.dds"
+	}
+	spriteType = {
+		name = "PIAST_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_STT/PIAST_eventPicture.dds"
 	}
 }
