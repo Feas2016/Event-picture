@@ -47,10 +47,6 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_STT/BRETSK_UNI.dds"
 	}
 	spriteType = {
-		name = "SIB_EXPLORERS_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_STT/SIB_EXPLORERS_eventPicture.dds"
-	}
-	spriteType = {
 		name = "GRAND_CORONATOIN_LITVA_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_STT/GRAND_CORONATOIN_LITVA_eventPicture.dds"
 	}

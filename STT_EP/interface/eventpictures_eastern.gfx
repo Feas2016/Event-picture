@@ -14,5 +14,9 @@ spriteTypes = {
 		name = "easterngfx_MERCHANTS_TALKING_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_EAST/MERCHANTS_TALKING_eventPicture.dds"
 	}
-		
+	
+	spriteType = {
+		name = "easterngfx_COLONIZATION_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/COLONIZATION_eventPicture.dds"
+	}
 }
