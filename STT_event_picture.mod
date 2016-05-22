@@ -5,4 +5,4 @@ tags={
 	"graphics"
 }
 picture="portada.png"
-supported_version="1.16"
+supported_version="1.17"
