@@ -5,8 +5,5 @@ tags={
 	"graphics"
 }
 picture="portada.png"
-<<<<<<< HEAD
 supported_version="1.17.*.*"
-=======
-supported_version="1.17"
->>>>>>> origin/master
+
