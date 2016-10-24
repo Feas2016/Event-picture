@@ -1,9 +1,8 @@
-name="[STT]Event Picture"
+﻿name="[STT]Event Picture"
 path="mod/STT_EP"
 tags={
 	"Events"
 	"graphics"
 }
 picture="portada.png"
-supported_version="1.17.*.*"
-
+supported_version="1.18.*.*"
