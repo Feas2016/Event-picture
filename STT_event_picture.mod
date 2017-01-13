@@ -1,4 +1,4 @@
-﻿name="[STT]Event Picture"
+name="[STT]Event Picture"
 path="mod/STT_EP"
 tags={
 	"Events"
