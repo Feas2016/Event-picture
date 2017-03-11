@@ -1,22 +1,241 @@
 spriteTypes = {
 
 	spriteType = {
+		name = "easterngfx_ACCUSATION_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/ACCUSATION_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_ADVISOR_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/ADVISOR_eventPicture.dds"
+	}
+	spriteType = {
+		name = "easterngfx_ANGRY_MOB_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/ANGRY_MOB_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_ASSASSINATION_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/ASSASSINATION_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_REVOLUTION_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/ANGRY_MOB_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_BAD_WITH_MONARCH_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/BAD_WITH_MONARCH_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_BANKRUPTCY_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/BANKRUPTCY_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_BATTLE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/BATTLE_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_BORDER_TENSION_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/BORDER_TENSION_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_CHURCH_ESTATE_1_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/CHURCH_ESTATE_1_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_CHURCH_ESTATE_UPSET_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/CHURCH_ESTATE_UPSET_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_CITY_DEVELOPMENT_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/CITY_DEVELOPMENT_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_CITY_VIEW_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/CITY_VIEW_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_CIVIL_WAR_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/CIVIL_WAR_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_COLONIZATION_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/COLONIZATION_eventPicture.dds"
+	}	
+	
+	spriteType = {
+		name = "easterngfx_CORRUPTION_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/CORRUPTION_eventPicture.dds"
+	}
+	
+	spriteType = {
+		name = "easterngfx_COSSACKS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/COSSACKS_eventPicture.dds"
+	}
+	spriteType = {
+		name = "easterngfx_COUNTRY_COLLAPSE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/COUNTRY_COLLAPSE_eventPicture.dds"
+	}
+	spriteType = {
+		name = "easterngfx_CONQUEST_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/CONQUEST_eventPicture.dds"
+	}
+	spriteType = {
+		name = "easterngfx_COURT_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/COURT_eventPicture.dds"
+	}
+	spriteType = {
+		name = "easterngfx_NOBLE_ESTATE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/COURT_eventPicture.dds"
+	}
+	spriteType = {
+		name = "easterngfx_CULTURE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/CULTURE_eventPicture.dds"
+	}
+	spriteType = {
+		name = "easterngfx_PAINTER_ARTIST_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/CULTURE_eventPicture.dds"
+	}
+	spriteType = {
+		name = "easterngfx_ECONOMY_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/ECONOMY_eventPicture.dds"
+	}
+	spriteType = {
+		name = "easterngfx_TRADEGOODS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/ECONOMY_eventPicture.dds"
+	}
+	spriteType = {
 		name = "easterngfx_EXPLORES_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_EAST/EXPLORES_eventPicture.dds"
 	}
-	
+	spriteType = {
+		name = "easterngfx_DEATH_OF_HEIR_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/DEATH_OF_HEIR_eventPicture.dds"
+	}
+	spriteType = {
+		name = "easterngfx_DEBATE_REPUBLICAN_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/DEBATE_REPUBLICAN_eventPicture.dds"
+	}
+	spriteType = {
+		name = "easterngfx_ELECTION_REPUBLICAN_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/DEBATE_REPUBLICAN_eventPicture.dds"
+	}
+	spriteType = {
+		name = "easterngfx_DIPLOMACY_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/DIPLOMACY_eventPicture.dds"
+	}
+	spriteType = {
+		name = "easterngfx_FAMINE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/FAMINE_eventPicture.dds"
+	}
+	spriteType = {
+		name = "easterngfx_FARMING_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/FARMING_eventPicture.dds"
+	}
+	spriteType = {
+		name = "easterngfx_FEAST_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/FEAST_eventPicture.dds"
+	}
 	spriteType = {
 		name = "easterngfx_FORT_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_EAST/FORT_eventPicture.dds"
 	}
-
+	spriteType = {
+		name = "easterngfx_GOOD_WITH_MONARCH_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/GOOD_WITH_MONARCH_eventPicture.dds"
+	}
+	spriteType = {
+		name = "easterngfx_GREAT_BUILDING_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/GREAT_BUILDING_eventPicture.dds"
+	}
+	spriteType = {
+		name = "easterngfx_HORDE_ON_HORSEBACK_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/HORDE_ON_HORSEBACK_eventPicture.dds"
+	}
+	spriteType = {
+		name = "easterngfx_KING_SICK_IN_BED_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/KING_SICK_IN_BED_eventPicture.dds"
+	}
+	spriteType = {
+		name = "easterngfx_LAND_MILITARY_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/LAND_MILITARY_eventPicture.dds"
+	}
 	spriteType = {
 		name = "easterngfx_MERCHANTS_TALKING_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_EAST/MERCHANTS_TALKING_eventPicture.dds"
 	}
-	
 	spriteType = {
-		name = "easterngfx_COLONIZATION_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_EAST/COLONIZATION_eventPicture.dds"
+		name = "easterngfx_MILITARY_CAMP_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/MILITARY_CAMP_eventPicture.dds"
 	}
+	spriteType = {
+		name = "easterngfx_NAVAL_MILITARY_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/NAVAL_MILITARY_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_NEW_HEIR_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/NEW_HEIR_eventPicture.dds"
+	}
+	spriteType = {
+		name = "easterngfx_NOBLE_ESTATE_DEMANDS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/NOBLE_ESTATE_DEMANDS_eventPicture.dds"
+	}
+	spriteType = {
+		name = "easterngfx_NOBLE_ESTATE_TAKE_OVER_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/NOBLE_ESTATE_TAKE_OVER_eventPicture.dds"
+	}
+	spriteType = {
+		name = "easterngfx_OVEREXTENSION_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/OVEREXTENSION_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_PIETY_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/PIETY_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_PLAGUE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/PLAGUE_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_WOUNDED_SOLDIERS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/PLAGUE_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_PRAYING_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/PRAYING_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_REFORM_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/REFORM_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_RELIGION_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/RELIGION_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_RELIGIOUS_TURMOIL_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/RELIGIOUS_TURMOIL_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_RELIGIOUS_WARS_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/RELIGIOUS_WARS_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_SHIP_SAILING_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/SHIP_SAILING_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_SIEGE_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/SIEGE_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_STREET_SPEECH_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/STREET_SPEECH_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_UNIVERSITY_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/UNIVERSITY_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "easterngfx_WESTERNISATION_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_EAST/WESTERNISATION_eventPicture.dds"
+	}	
 }
