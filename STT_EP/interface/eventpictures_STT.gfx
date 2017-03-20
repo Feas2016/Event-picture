@@ -66,4 +66,56 @@ spriteTypes = {
 		name = "PIAST_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_STT/PIAST_eventPicture.dds"
 	}
+	spriteType = {
+		name = "fort_sunking_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_STT/fort_sunking_eventPicture.dds"
+	}
+	spriteType = {
+		name = "hofburg_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_STT/hofburg_eventPicture.dds"
+	}	
+	spriteType = {
+		name = "tajh_mahal_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_STT/tajh_mahal_eventPicture.dds"
+	}
+	spriteType = {
+		name = "alhambra_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_STT/alhambra_eventPicture.dds"
+	}
+	spriteType = {
+		name = "alex_mayak_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_STT/alex_mayak_eventPicture.dds"
+	}
+	spriteType = {
+		name = "letn_pekin_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_STT/letn_pekin_eventPicture.dds"
+	}
+	spriteType = {
+		name = "ryuanji_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_STT/ryuanji_eventPicture.dds"
+	}
+	spriteType = {
+		name = "atesgah_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_STT/atesgah_eventPicture.dds"
+	}
+	spriteType = {
+		name = "tower_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_STT/tower_eventPicture.dds"
+	}
+	spriteType = {
+		name = "zam_sforza_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_STT/zam_sforza_eventPicture.dds"
+	}
+	spriteType = {
+		name = "cast_de_ovo_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_STT/cast_de_ovo_eventPicture.dds"
+	}
+	spriteType = {
+		name = "zam_if_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_STT/zam_if_eventPicture.dds"
+	}
+	spriteType = {
+		name = "aachen_palace_eventPicture"
+		texturefile = "gfx/event_pictures/event_pictures_STT/aachen_palace_eventPicture.dds"
+	}
 }
