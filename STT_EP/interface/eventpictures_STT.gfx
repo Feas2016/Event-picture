@@ -10,10 +10,7 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/event_pictures_STT/CORONA_eventPicture.dds"
 	}
 
-	spriteType = {
-		name = "KREMLIN_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_STT/KREMLIN_eventPicture.dds"
-	}
+
 	spriteType = {
 		name = "stt_ssofia_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_STT/stt_ssofia_eventPicture.dds"

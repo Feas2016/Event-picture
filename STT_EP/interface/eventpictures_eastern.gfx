@@ -58,7 +58,7 @@ spriteTypes = {
 	}	
 	spriteType = {
 		name = "easterngfx_COLONIZATION_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_EAST/COLONIZATION_eventPicture.dds"
+		texturefile = "gfx/event_pictures/event_pictures_TR/COSSACKS_IN_SIBERIA_eventPicture.dds"
 	}	
 	
 	spriteType = {
@@ -96,11 +96,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "easterngfx_ECONOMY_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_EAST/ECONOMY_eventPicture.dds"
+		texturefile = "gfx/event_pictures/event_pictures_TR/ENTERING_MOSCOW_eventPicture.dds"
 	}
 	spriteType = {
 		name = "easterngfx_TRADEGOODS_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_EAST/ECONOMY_eventPicture.dds"
+		texturefile = "gfx/event_pictures/event_pictures_TR/ENTERING_MOSCOW_eventPicture.dds"
 	}
 	spriteType = {
 		name = "easterngfx_EXPLORES_eventPicture"
@@ -122,10 +122,7 @@ spriteTypes = {
 		name = "easterngfx_DIPLOMACY_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_EAST/DIPLOMACY_eventPicture.dds"
 	}
-	spriteType = {
-		name = "easterngfx_FAMINE_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_EAST/FAMINE_eventPicture.dds"
-	}
+
 	spriteType = {
 		name = "easterngfx_FARMING_eventPicture"
 		texturefile = "gfx/event_pictures/event_pictures_EAST/FARMING_eventPicture.dds"
